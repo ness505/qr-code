@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+body{
+    background-color: #d7e3eb;
+    height: 100%; /* Asegura que el contenedor ocupe toda la pantalla */
+    margin: 0;
+}
+
+.cuerpo
+{
+    display: flex;
+    height: 94vh; 
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+}
+
+/* caja blanca*/
+.caja 
+{
+    width: 250px;
+    background-color: white;
+    border-radius: 4%;
+    text-align: center;
+    padding:13px;
+    
+}
+
+.qr /* Imagen del qr */
+{
+    width: 100%;
+    border-radius: 4%;
+}
+h1{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: rgb(45, 45, 77);
+}
+p{
+    padding: 5px;;
+    font-weight: 400;
+    color: rgb(135, 134, 147);
+    font-family: 'Outfit', sans-serif;
+    font-size: 14px;
+}

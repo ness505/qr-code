@@ -17,7 +17,7 @@ body{
 /* caja blanca*/
 .caja 
 {
-    width: 300px;
+    width: 280px;
     background-color: white;
     border-radius: 4%;
     text-align: center;
@@ -34,7 +34,7 @@ body{
 h1{
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
-    font-size: 25px;
+    font-size: 22px;
     color: rgb(45, 45, 77);
 }
 p{
@@ -42,5 +42,5 @@ p{
     font-weight: 400;
     color: rgb(135, 134, 147);
     font-family: 'Outfit', sans-serif;
-    font-size: 16px;
+    font-size: 15px;
 }

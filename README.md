@@ -23,8 +23,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [](https://ness505.github.io/qr-code/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-page-using-pixels-for-responsive-design-ZE4EEHGZit)
 - Live Site: [QR Page](https://ness505.github.io/qr-code/)
+
+
 ### Built with
 
 - Semantic HTML5 markup

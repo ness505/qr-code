@@ -10,19 +10,21 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### Screenshot
 
+**Desktop design**
 ![Design for the QR code component coding challenge](results_images/qr_code_desktop_design.jpg)
+
+**Mobile design**
 ![Design for the QR code component coding challenge](results_images/qr_code_mobile_design.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ness505/qr-code)
-
+- Solution URL: [](https://ness505.github.io/qr-code/)
+- Live Site: [QR Page](https://ness505.github.io/qr-code/)
 ### Built with
 
 - Semantic HTML5 markup

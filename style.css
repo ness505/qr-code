@@ -9,7 +9,8 @@ body{
 .cuerpo
 {
     display: flex;
-    height: 94vh; 
+    flex-direction: column;
+    height: 100vh; 
     justify-content: center; /* Centra horizontalmente */
     align-items: center; /* Centra verticalmente */
 }
